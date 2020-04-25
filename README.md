@@ -1,2 +1,2 @@
 # Hello-world
-This day is first day on GitHub.
+Today is first day on GitHub.
